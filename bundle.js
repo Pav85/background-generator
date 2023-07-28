@@ -17214,8 +17214,6 @@
 },{}],2:[function(require,module,exports){
 var _ = require("lodash");
 
-console.log(_);
-
 console.log("Starting generator!");
 
 var css = document.querySelector("h3");

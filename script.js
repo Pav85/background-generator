@@ -1,6 +1,4 @@
-var _ = require("lodash");
-
-console.log(_);
+// var _ = require("lodash");
 
 console.log("Starting generator!");
 
